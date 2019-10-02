@@ -1,2 +1,2 @@
 # Tech-Race
-Tavh Race hackaton challenges
+Console game for Tech Race hackaton
